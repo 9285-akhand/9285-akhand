@@ -12,7 +12,6 @@
 <a href="https://twitter.com/akhandv18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhandv18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhand-verma-2551b2229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhand-verma-2551b2229" height="30" width="40" /></a>
 <a href="https://instagram.com/akhand_5015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhand_5015" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akhandverma010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akhandverma010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akhand_9285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhand_9285" height="30" width="40" /></a>
 </p>
 
