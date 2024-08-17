@@ -1,9 +1,9 @@
 <h1 align="center">Hello guys, This is Akhand Verma</h1>
-<h3 align="center">A passionate Web Development Enthusiast from India. I am currently pursuing B.Tech(Computer Science and Engineering) from the Indian Institute of Information Technology, Pune. I am in my junior year right now.</h3>
+<h3 align="center">A passionate Web Development Enthusiast from India. I am currently pursuing B.Tech(Computer Science and Engineering) from the Indian Institute of Information Technology, Pune. I am in my senior year right now.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9285-akhand" alt="9285-akhand" /></a> </p>
 
-- 🌱 I’m currently **working on a ML Project.**
+- 🌱 I’m currently **working on a college project.**
 
 - 📫 How to reach me **akhandverma01062003@gmail.com**
 
